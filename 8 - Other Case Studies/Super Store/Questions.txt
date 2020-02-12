@@ -1,0 +1,21 @@
+
+qty of product sold in every store... *(top 5)
+
+what kind of products sold in which period of the year
+(What is the most sold product in a year)
+
+highest sales of product in a day
+
+which town has max sale in which region
+product demand according to the region
+
+fast moving product (sold most everyday)
+
+product which sold together ? - Market Basket Analysis
+
+what property id is low at sales - on monthly basis
+
+
+
+
+
