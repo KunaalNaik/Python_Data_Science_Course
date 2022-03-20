@@ -1,0 +1,13 @@
+Random state (Yes)
+n_job = -1 (1,2,3,4,6,7,8) (Yes)
+estimators (Yes)
+n_estimators 
+DT
+Gini- Entrophy
+Why we wrote a code 
+Hands on = Applying hyperparameter optimization
+Ensemble (bootstrap)
+ML Live exmaples (cases, DT's) Industry
+
+
+
