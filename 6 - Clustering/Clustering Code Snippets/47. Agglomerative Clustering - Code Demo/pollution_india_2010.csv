@@ -1,0 +1,182 @@
+City,NO2,PM10,SO2,State
+Chitoor,9,39,4,Andhra Pradesh
+Guntur,11,81,2,Andhra Pradesh
+Hydrabad,24,79,5,Andhra Pradesh
+Kothagudem,11,62,2,Andhra Pradesh
+Kurnool,9,85,4,Andhra Pradesh
+Nalgonda,23,85,5,Andhra Pradesh
+Nellore,12,65,2,Andhra Pradesh
+Patencheru,23,76,11,Andhra Pradesh
+Ramagundam,12,68,4,Andhra Pradesh
+Tirupati,9,37,4,Andhra Pradesh
+Vijaywada,14,93,6,Andhra Pradesh
+Warangal,10,52,4,Andhra Pradesh
+Vishakhapatnam,16,71,7,Andhra Pradesh
+Bongaigaon,15,58,6,Assam
+Daranga,14,58,5,Assam
+Dibrugarh,14,38,6,Assam
+Golaghat,15,73,6,Assam
+Guwahati,15,94,7,Assam
+Lakhimpur,15,76,6,Assam
+Nagaon,14,103,6,Assam
+Nalbari,16,68,7,Assam
+Sibsagar,14,59,6,Assam
+Silchar,16,81,6,Assam
+Tezpur,13,68,6,Assam
+Tinsukia,16,58,7,Assam
+Patna,40,181,7,Bihar
+Chandigarh,16,92,2,Chandigarh
+Bhillai,22,109,9,Chattisgarh
+Bilaspur,19,Null,8,Chattisgarh
+Korba,21,104,13,Chattisgarh
+Raipur,43,289,15,Chattisgarh
+Silvassa,18,39,7,Dadra and Nagar Haveli
+Daman,18,35,7,Daman and Diu
+Delhi,55,261,5,Delhi
+Panaji,17,85,4,Goa
+Marmagao,18,59,32,Goa
+Vasco,19,61,6,Goa
+Curchorem,17,38,32,Goa
+Codli,27,90,10,Goa
+Bicholim,50,89,9,Goa
+Amona,18,55,6,Goa
+Assanora,16,71,5,Goa
+Honda,25,100,8,Goa
+Usgao,10,245,6,Goa
+Ahmedabad,21,95,15,Gujarat
+Anklesvar,24,77,16,Gujarat
+Jamnagar,27,104,12,Gujarat
+Rajkot,17,96,13,Gujarat
+Surat,24,76,16,Gujarat
+Vadodara,29,93,17,Gujarat
+Vapi,24,80,16,Gujarat
+Faridabad,29,164,18,Haryana
+Hissar,8,95,8,Haryana
+Yamunanagar,26,261,12,Haryana
+Baddi,16,105,3,HimachalPradesh
+Damtal,11,68,2,HimachalPradesh
+Kala Amb,18,79,3,HimachalPradesh
+Nalagarh,18,86,3,HimachalPradesh
+Parwanoo,12,84,3,HimachalPradesh
+Paonta Sahib,17,135,3,HimachalPradesh
+Shimla,13,58,3,HimachalPradesh
+Jammu,15,115,7,Jammu and Kashmir
+Dhanbad,36,184,15,Jharkhand
+Jamshedpur,48,153,35,Jharkhand
+Jharia,38,237,17,Jharkhand
+Ranchi,35,172,19,Jharkhand
+Saraikela Khar- sawan,45,169,35,Jharkhand
+Sindri,37,174,16,Jharkhand
+West Singhbhum,32,302,21,Jharkhand
+Bangalore,31,89,14,Karnataka
+Belgaum,15,33,2,Karnataka
+Gulburga,13,65,9,Karnataka
+Hassan,22,45,5,Karnataka
+Hubli-Dharwad,13,92,5,Karnataka
+Mangalore,8,48,6,Karnataka
+Mysore,28,44,10,Karnataka
+Alappuzha,5,44,2,Kerala
+Kochi,17,61,4,Kerala
+Kollam,15,47,3,Kerala
+Kottayam,19,47,6,Kerala
+Kozhikode,9,42,2,Kerala
+Malapuram,5,30,2,Kerala
+Palakkad,6,32,3,Kerala
+Pathanamthitta,13,27,2,Kerala
+Thissur,7,31,2,Kerala
+Wayanad,12,46,2,Kerala
+Trivandrum,24,56,9,Kerala
+Bhopal,18,133,9,MadhyaPradesh
+Dewas,18,85,12,MadhyaPradesh
+Gwalior,20,308,12,MadhyaPradesh
+Indore,18,120,14,MadhyaPradesh
+Jabalpur,25,135,2,MadhyaPradesh
+Nagda,24,95,19,MadhyaPradesh
+Sagar,17,66,4,MadhyaPradesh
+Satna,6,194,3,MadhyaPradesh
+Singrauli,19,59,15,MadhyaPradesh
+Ujjain,13,80,12,MadhyaPradesh
+Amravati,14,118,12,Maharashtra
+Aurangabad,21,75,6,Maharashtra
+Badlapur,73,112,32,Maharashtra
+Chandrapur,26,152,26,Maharashtra
+Jalgaon,45,122,17,Maharashtra
+Kolhapur,22,83,15,Maharashtra
+Latur,16,106,8,Maharashtra
+Lote,30,119,60,Maharashtra
+Pune,39,82,29,Maharashtra
+Mahad,38,93,19,Maharashtra
+Mumbai,19,97,4,Maharashtra
+Nagpur,33,113,7,Maharashtra
+Nashik,26,76,21,Maharashtra
+Navi Mumbai,39,113,20,Maharashtra
+Roha,34,89,16,Maharashtra
+Sangli,27,62,14,Maharashtra
+Solapur,35,66,17,Maharashtra
+Thane,14,50,14,Maharashtra
+Ulhasnagar,68,106,31,Maharashtra
+Byrnihat,15,175,Null,Meghalaya
+Dawki,6,71,2,Meghalaya
+Shillong,10,79,2,Meghalaya
+Tura,9,63,2,Meghalaya
+Aizawl,6,42,2,Mizoram
+Dimapur,7,76,2,Nagaland
+Kohima,5,66,2,Nagaland
+Angul,21,110,7,Orissa
+Balasore,12,73,2,Orissa
+Berhampur,13,58,2,Orissa
+Bhubneshwar,18,84,2,Orissa
+Cuttack,21,74,2,Orissa
+Rayagada,20,58,2,Orissa
+Rourkela,11,105,5,Orissa
+Sambalpur,15,50,3,Orissa
+Talcher,23,116,12,Orissa
+Amritsar,36,219,14,Punjab
+Bhatinda,21,216,9,Punjab
+Dera Bassi,23,162,10,Punjab
+Pathankot/DeraBaba,14,76,7,Punjab
+Gobindgarh,35,224,18,Punjab
+Jalandar,29,144,11,Punjab
+Khanna,31,231,9,Punjab
+Ludhiana,32,214,9,Punjab
+Naya Nangal,16,94,7,Punjab
+Patiala,20,143,7,Punjab
+Puducherry,13,38,6,Puducherry
+Alwar,24,225,8,Rajasthan
+Jaipur,37,164,6,Rajasthan
+Jodhpur,22,181,6,Rajasthan
+Kota,29,132,10,Rajasthan
+Udaipur,34,116,6,Rajasthan
+Chennai,15,59,9,Tamilnadu
+Coimbatore,27,78,5,Tamilnadu
+Madurai,25,47,11,Tamilnadu
+Salem,26,85,8,Tamilnadu
+Tuticorin,12,119,12,Tamilnadu
+Agra,20,185,5,UttarPradesh
+Allahabad,24,218,4,UttarPradesh
+Anpara,28,128,17,UttarPradesh
+Ferozabad,33,214,16,UttarPradesh
+Gajraula,22,87,16,UttarPradesh
+Ghaziabad,37,290,30,UttarPradesh
+Jhansi,25,118,9,UttarPradesh
+Kanpur,34,203,7,UttarPradesh
+Khurja,27,173,29,UttarPradesh
+Lucknow,34,204,8,UttarPradesh
+Meerut,47,166,8,UttarPradesh
+Muradabad,21,195,11,UttarPradesh
+Noida,46,132,11,UttarPradesh
+Varanasi,20,127,18,UttarPradesh
+Dehradun,30,162,28,Uttarakhand
+Haldwani,Null,196,Null,Uttarakhand
+Haridwar,Null,139,Null,Uttarakhand
+Kashipur,Null,46,Null,Uttarakhand
+Rishikesh,Null,212,Null,Uttarakhand
+Asansol,66,141,8,West Bengal
+Barrackpore,74,121,12,West Bengal
+Durgapur,66,141,8,West Bengal
+Haldia,52,57,14,West Bengal
+Howrah,75,118,12,West Bengal
+Kolkata,62,99,11,West Bengal
+Raniganj,63,159,8,West Bengal
+Sankrail,65,100,10,West Bengal
+South Suburban,56,82,7,West Bengal
